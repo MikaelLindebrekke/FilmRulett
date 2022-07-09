@@ -1,0 +1,22 @@
+{
+    "film": [
+        {
+            "id": 0,
+            "title": "Django Unchained",
+            "genre": "Western/Action",
+            "length": "2h 45m",
+            "release": "2012",
+            "rating": "8.4",
+            "seen": "false"
+        },
+        {
+            "id": 1,
+            "title": "El Orfanato",
+            "genre": "Horror/Thriller",
+            "length": "1h 45m",
+            "release": "2012",
+            "rating": "7.4",
+            "seen": "false"
+        }
+    ]
+}
